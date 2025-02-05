@@ -19,13 +19,8 @@ ProtoLabHub is a platform designed to facilitate the monitoring and management o
 <img src="images\Architecture_Overview.jpg" alt="Dashboard" width="600"/>
 <img src="images\Sekvensdiagram.png" alt="Home Page" width="600"/>
 
-### Admin Page showcase
+### Admin Page
 <img src="images\Admin_page_2.png" alt="Admin Page" width="600"/>
-
-### Dashboard
-
-## Contributing
-We welcome contributions! Please fork the repository and submit pull requests.
 
 ## License
 This project is licensed under the MIT License.
