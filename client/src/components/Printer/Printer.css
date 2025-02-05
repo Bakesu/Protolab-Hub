@@ -1,0 +1,12 @@
+.item{
+  margin: 1rem;
+}
+
+.spacing{
+  height: 4em; 
+  display: block;
+}
+
+.MuiLinearProgress-root{
+  height: 10px;
+}

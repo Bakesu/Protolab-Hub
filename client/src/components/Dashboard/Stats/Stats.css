@@ -1,0 +1,31 @@
+.stats-sub-container{
+    
+}
+
+.uptime{
+    margin-right: 2rem;
+}
+
+.filter-p{
+    margin: 0;
+}
+
+.material{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.material-pie-chart-container{
+    height: 200px;
+    width: 300px;
+}
+
+.popular-times{
+    margin-left: 2rem;
+}
+
+.recharts-layer text{
+    font-weight: 700;
+    font-size: 0.9rem !important;
+}
+
