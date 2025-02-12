@@ -11,7 +11,8 @@ ProtoLabHub is a platform designed to facilitate the monitoring and management o
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 - **IoT Integration:** MQTT, WebSockets
-- **Cloud Services:** AWS (EC2, S3), Firebase
+- **Cloud Services:** Microsoft Azure
+- **Containerization:** Docker
 - **Version Control:** Git, GitHub
 
 ## Screenshots and Images
